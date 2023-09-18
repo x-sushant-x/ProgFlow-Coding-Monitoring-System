@@ -1,0 +1,18 @@
+.body {
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 16.3rem 1fr;
+    grid-template-rows: 3.2rem 1fr;  
+}
+
+.header {
+    background-color: white;
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+
+.sidebar {
+    /* background-color: #1c1f23; */
+    grid-row: 1 / 3;
+}

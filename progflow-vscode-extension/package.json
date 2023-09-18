@@ -26,10 +26,6 @@
       {
         "command": "progflow.setAPIKey",
         "title": "Set API Key"
-      },
-      {
-        "command": "progflow.addProjectName",
-        "title": "Add Project Name"
       }
     ]
   },

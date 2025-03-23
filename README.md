@@ -5,6 +5,8 @@ ProgFlow is an open-source self-hosted software to keep track of your coding tim
 ### Written In
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+![HOME PAGE](https://raw.githubusercontent.com/x-sushant-x/ProgFlow-Coding-Monitoring-System/refs/heads/main/Home-Desktop.png)
+
 <!-- ### How It Works?
 1. I have developed an extension that will be integrated into your VS Code.
 2. Now you have to create an account on web portal -->
